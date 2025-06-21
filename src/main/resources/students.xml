@@ -1,0 +1,25 @@
+<students>
+    <student>
+        <name>John Doe</name>
+        <skills>
+            <skill>Kotlin</skill>
+            <skill>Spring</skill>
+            <skill>C#</skill>
+        </skills>
+    </student>
+    <student>
+        <name>Jane Smith</name>
+        <skills>
+            <skill>Java</skill>
+            <skill>Kotlin</skill>
+            <skill>C++</skill>
+            <skill>PHP</skill>
+        </skills>
+    </student>
+    <student>
+        <name>Toni Start</name>
+        <skills>
+            <skill>And I'm just an iron man.</skill>
+        </skills>
+    </student>
+</students>
